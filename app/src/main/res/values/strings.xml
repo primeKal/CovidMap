@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CovidMap</string>
+    <string name="yesbtn">Yes</string>
+    <string name="nobtn">No</string>
+    <string name="syp1">Do u Cough??</string>
+    <string name="call">Report a covid case</string>
+    <string name="recovered">recovered</string>
+    <string name="inland">In Land</string>
+    <string name="confirmedcases">Confirmed</string>
+</resources>
